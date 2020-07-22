@@ -1,2 +1,2 @@
 # Placement-Data-Visualization
-Creative visualization &amp; insights on the Placement Data using Tableau
+Creative visualization &amp; informative insights on the Placement Data using Tableau
